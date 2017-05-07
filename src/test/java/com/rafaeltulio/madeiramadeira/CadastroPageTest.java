@@ -28,7 +28,7 @@ public class CadastroPageTest {
 	@After
 	public void after() throws Exception {
 
-//		driver.quit();
+		driver.quit();
 
 	}
 
